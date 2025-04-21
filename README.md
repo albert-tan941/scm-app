@@ -35,7 +35,7 @@ A web-based Supply Chain Management (SCM) system built with React, Node.js, and 
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/albert-tan941/scm-app.git
 ```
 
 2. Install backend dependencies
